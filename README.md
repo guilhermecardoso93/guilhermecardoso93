@@ -1,5 +1,4 @@
 ## Olá! Eu sou o Guilherme Cardoso
-<img align="center" alt="CSS" height="150" width="170" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1627843514352.png">
 
 
 - 🔭 Hoje eu trabalho como Assistente Administrativo, mais estou estudando para entrar na área como Dev.Junior Front-End
