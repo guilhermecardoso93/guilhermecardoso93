@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje eu trabalho como Assistente Administrativo, mais estou estudando para entrar na área como Dev.Junior Front-End
-- 🌱  Estou estudando Javasprit e React
+- 🌱  Estou estudando JavaScript e ReactJS
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Tenho um cachorro chamado Dragão, dois Gatos o KOOK e a Ningning.
 
