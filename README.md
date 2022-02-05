@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Tenho um cachorro chamado Dragão, dois Gatos o KOOK e a Ningning.
 
 
- <div>
+ <div style="display: flex">
   <a href="https://github.com/GuilhermeCardoso93">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCardoso93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCardoso93&layout=compact&langs_count=7&theme=tokyonight  "/>
