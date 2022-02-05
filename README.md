@@ -1,10 +1,10 @@
 ## Olá! Eu sou o Guilherme Cardoso
 
 
-- 🔭 Hoje eu trabalho como Assistente Administrativo, mais estou estudando para entrar na área como Dev.Junior Front-End
-- 🌱  Estou estudando JavaScript e ReactJS
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Tenho um cachorro chamado Dragão, dois Gatos o KOOK e a Ningning.
+- Hoje eu trabalho como Assistente Administrativo, mais estou estudando para entrar na área como Dev.Junior Front-End
+- Estou estudando JavaScript e ReactJS
+- Pronouns: ele/dele
+-  Fun fact: Tenho um cachorro chamado Dragão, 4 Gatos !!! Kook, Ningning, Sana e Momo.
 
 
  <div style="display: flex; align-itens:center" align="center">
