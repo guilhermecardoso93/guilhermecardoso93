@@ -16,7 +16,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GuilhermeCardoso93&theme=tokyonight&hide_border=true&border=DD2E7F)](https://git.io/streak-stats)
  
 
- <div style="display: inline_block"><br>
+ <div style="display: flex"><br>
   <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
