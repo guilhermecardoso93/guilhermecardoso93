@@ -12,9 +12,9 @@
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCardoso93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeCardoso93&layout=compact&langs_count=7&theme=tokyonight  "/>
   </div>
-  
+  <div  style="display: flex; align-itens:center" align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GuilhermeCardoso93&theme=tokyonight&hide_border=true&border=DD2E7F)](https://git.io/streak-stats)
- 
+ </div>
 
  <div style="display: flex"><br>
   <img align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
