@@ -4,7 +4,7 @@
 - Hoje eu trabalho como Assistente Administrativo, mais estou estudando para entrar na área como Dev.Junior Front-End
 - Estou estudando JavaScript e ReactJS
 - Pronouns: ele/dele
--  Fun fact: Tenho um cachorro chamado Dragão, 4 Gatos !!! Kook, Ningning, Sana e Momo.
+-  Fun fact: Tenho um cachorro chamado Dragão, 2 Gatos !!! Kook & Ningning.
 
 
  <div style="display: flex; align-itens:center" align="center">
