@@ -1,6 +1,13 @@
 ## Olá! Eu sou o Guilherme Cardoso
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skills.thijs.gg/icons?i=js,ts,html,css,react,tailwind,git,sass,styledcomponents" />
+  </a>
+</p>
+
+
 - Hoje eu trabalho como Assistente Administrativo, mais estou estudando para entrar na área como Dev.Junior Front-End
 - Estou estudando JavaScript e ReactJS
 - Pronouns: ele/dele
@@ -30,9 +37,7 @@
  
  <div>
     <a href="https://www.instagram.com/guicardoso93/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:guilherme_cardosogui@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-cardoso-35710b103/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://api.whatsapp.com/send?phone=5522999047309&text=Oi%20Esta%20falando%20com%20o%20Guilherme!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  
    
        
   ![Snake animation](https://github.com/GuilhermeCardoso93/GuilhermeCardoso93/blob/output/github-contribution-grid-snake.svg)
