@@ -11,7 +11,7 @@
 - Hoje eu trabalho como Assistente Administrativo, mais estou estudando para entrar na área como Dev.Junior Front-End
 - Estou estudando JavaScript e ReactJS
 - Pronouns: ele/dele
--  Fun fact: Tenho um cachorro chamado Dragão, 2 Gatos !!! Kook & Ningning.
+-  Fun fact: 2 Gatos !!! Kook & Ningning.
 <p> 
   <a href="https://www.instagram.com/guicardoso93/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ff69b4" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-cardoso-35710b103/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-blue" target="_blank"></a>
