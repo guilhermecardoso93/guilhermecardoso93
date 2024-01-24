@@ -20,7 +20,7 @@
 </p>
 
 
-<a href='http://portifolio-reactjs-2022.vercel.app/' target="_blank">Portifólio</a>
+<a href='http://portifolio-reactjs-2022.vercel.app/' target="_blank" >Portifólio</a>
 
 
  <div style="display: flex; align-itens:center" align="center">
