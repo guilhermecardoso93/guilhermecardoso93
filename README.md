@@ -1,11 +1,6 @@
 ## Olá! Eu sou o Guilherme Cardoso
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skills.thijs.gg/icons?i=js,ts,html,css,react,tailwind,git,sass,styledcomponents" />
-  </a>
-</p>
 
 
 - Hoje eu trabalho como Assistente Administrativo, mais estou estudando para entrar na área como Dev.Junior Front-End
