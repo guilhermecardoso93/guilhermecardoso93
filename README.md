@@ -20,9 +20,8 @@ Em paralelo, estou construindo minha transição para a área de **Desenvolvimen
 * 🎨 Experiência com **HTML, CSS e Sass**
 * 📦 Utilizando **Vite, React Router, Swiper e EmailJS**
 * 🧩 Conhecimentos em **Git e GitHub**
-* 🎨 Experiência utilizando **Figma / Dev Mode**
 * 📚 Sempre estudando e buscando evoluir na área de tecnologia
-* 😺 Fun fact: tenho **2 gatos — Kook & Ningning**
+
 
 ---
 
