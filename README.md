@@ -17,24 +17,3 @@
 
 <a href='http://portifolio-reactjs-2022.vercel.app/' target="_blank" >Portifólio</a>
 
-
- <div style="display: flex; align-itens:center" align="center">
- 
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeCardoso93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- 
-  </div>
-  <div  style="display: flex; align-itens:center" align="center"><br><br>
-   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GuilhermeCardoso93&theme=tokyonight&hide_border=true&border=DD2E7F)](https://git.io/streak-stats)
-   
- </div>
-
- 
- <div>
-    
- 
-       
-  ![Snake animation](https://github.com/GuilhermeCardoso93/GuilhermeCardoso93/blob/output/github-contribution-grid-snake.svg)
-
- 
-</div>
